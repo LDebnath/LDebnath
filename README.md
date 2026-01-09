@@ -3,7 +3,7 @@
 
 ----->
 
-# 👋 Hi, I’m **LDebnath**
+# 👋 Hi, I’m **Loyal Debnath**
 **Web & Blockchain Developer**  
 Building cool web apps, secure contracts, and real-world tools.
 
